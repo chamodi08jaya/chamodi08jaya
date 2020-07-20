@@ -1,6 +1,6 @@
 ### Hi there 👋
  - 🔭 I’m Chamodi Jayamini. Thanks for visiting my github.
- - 🌱 I’m currently Undergratuate of University of Colombo School of Computing.
+ - 🌱 I’m currently Undergraduate of University of Colombo School of Computing.
  - 📫 How to reach me : https://www.linkedin.com/in/chamodi-jayamini-515529173/
  
  
