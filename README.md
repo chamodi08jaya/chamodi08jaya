@@ -1,7 +1,8 @@
 ### Hi there 👋
  - 🔭 I’m Chamodi Jayamini. Thanks for visiting my github.
  - 🌱 I’m currently Undergraduate of University of Colombo School of Computing.
- - 📫 How to reach me :<a href="https://www.linkedin.com/in/chamodi-jayamini-515529173/" > Linkedin</a>
+ - 📫 How to reach me :<a href="https://www.linkedin.com/in/chamodi-jayamini-515529173/" > LinkedIn</a>.
+ 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chamodi08jaya&show_icons=true&theme=radical)
  
  
