@@ -2,7 +2,6 @@
  - 🔭 I’m Chamodi Jayamini. Thanks for visiting my github.
  - 🌱 I’m currently Undergraduate of University of Colombo School of Computing.
  - 🔭 I’m currently working as an Intern.
- - 🌱 I want to learn everything 🤣
  - 👯 I’m looking to collaborate with others having same interest as of mine.
  - 📫 How to reach me :<a href="https://www.linkedin.com/in/chamodi-jayamini-515529173/" > LinkedIn</a>.
  
