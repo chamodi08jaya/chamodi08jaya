@@ -8,7 +8,7 @@
  - 📫 How to reach me :<a href="https://www.linkedin.com/in/chamodi-jayamini-515529173/" > LinkedIn</a>.
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chamodi08jaya&show_icons=true&theme=radical)
-![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodi08jaya&theme=radical&layout=compact" height="300" width="350"/>
 
  ### Languages and Tools:
 <div align="center">
@@ -32,7 +32,7 @@
  </div>
 
 <br/>
-
+![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
 
  
 <!--
