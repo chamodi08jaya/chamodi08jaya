@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chamodi08jaya" alt="chamodi08jaya" /> </p>
+
 ### Hi there 👋
  - 🔭 I’m Chamodi Jayamini. Thanks for visiting my github.
  - 🌱 I’m currently Undergraduate of University of Colombo School of Computing.
