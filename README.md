@@ -33,8 +33,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 </div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chamodi08jaya&show_icons=true&theme=radical)
-
 
  
 <!--
@@ -52,6 +50,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - <div align="center"> 
 - ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chamodi08jaya&show_icons=true&theme=radical)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chamodi08jaya&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodi08jaya&theme=radical&layout=compact" height="300" width="350"/>
 </div>
