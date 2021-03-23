@@ -6,10 +6,10 @@
  - 🔭 I’m currently working as an Intern.
  - 👯 I’m looking to collaborate with others having same interest as of mine.
  - 📫 How to reach me :<a href="https://www.linkedin.com/in/chamodi-jayamini-515529173/" > LinkedIn</a>.
- 
+<div align="center"> 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chamodi08jaya&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodi08jaya&theme=radical&layout=compact" height="300" width="350"/>
-
+</div>
  ### Languages and Tools:
 <div align="center">
 <code><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
