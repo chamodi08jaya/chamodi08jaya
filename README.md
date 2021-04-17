@@ -3,7 +3,7 @@
 ### Hi there 👋
  - 🔭 I’m Chamodi Jayamini. Thanks for visiting my github.
  - 🌱 I’m currently Undergraduate of <a href="https://ucsc.cmb.ac.lk/"> University of Colombo School of Computing.</a>
- - 🔭 I’m currently working as an Intern in <a href="https://www.icta.lk/">ICTA</a>
+ - 🔭 I’m former Intern Software Engineer in <a href="https://www.icta.lk/">ICTA</a>
  - 👯 I’m looking to collaborate with others having same interest as of mine.
  - 📫 How to reach me :<a href="https://www.linkedin.com/in/chamodi-jayamini-515529173/" > LinkedIn</a>
  
