@@ -3,16 +3,16 @@
 ### Hi there 👋
  - 🔭 I’m Chamodi Jayathilaka. Thanks for visiting my github.
  - 🌱 I’m recent graduated student of <a href="https://ucsc.cmb.ac.lk/"> University of Colombo School of Computing.</a>
- - 🔭 I’m former Intern Software Engineer in <a href="https://www.icta.lk/">ICTA</a>
+<!-- - 🔭 I’m former Intern Software Engineer in <a href="https://www.icta.lk/">ICTA</a>-->
  - 👯 I’m looking to collaborate with others having same interest as of mine.
- - 📫 How to reach me :<a href="https://www.linkedin.com/in/chamodi-jayamini-515529173/" > LinkedIn</a>
+ - 📫 How to reach me :<a href="https://www.linkedin.com/in/chamodijayathilaka/" > LinkedIn</a>
  
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=chamodi08jaya&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="300" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodi08jaya&theme=radical&layout=compact" height="300" width="350"/>
-</div>
+</div>-->
 
- ### Languages and Tools:
+ <!--### Languages and Tools:
 <div align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -31,14 +31,15 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-</div>
+</div>-->
 
-📊 **Weekly Development Breakdown**
+<!--📊 **Weekly Development Breakdown**
+-->
 <!--START_SECTION:waka-->
-```text
+<!--```text
  No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+```-->
+ <!--END_SECTION:waka-->
 
  
 <!--
