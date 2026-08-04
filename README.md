@@ -2,7 +2,7 @@
 
 ### Hi there 👋
  - 🔭 I’m Chamodi Jayathilaka. Thanks for visiting my github.
- - 🌱 I’m recent graduated student of <a href="https://ucsc.cmb.ac.lk/"> University of Colombo School of Computing.</a>
+ - 🌱 I’m graduated student of <a href="https://ucsc.cmb.ac.lk/"> University of Colombo School of Computing.</a>
 <!-- - 🔭 I’m former Intern Software Engineer in <a href="https://www.icta.lk/">ICTA</a>-->
  - 👯 I’m looking to collaborate with others having same interest as of mine.
  - 📫 How to reach me :<a href="https://www.linkedin.com/in/chamodijayathilaka/" > LinkedIn</a>
